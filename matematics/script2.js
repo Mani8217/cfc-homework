@@ -14,7 +14,7 @@ function calculate() {
     newSalario += salario + (salario * 2 / 100 );
     }
     if(genero=='fem') {
-        newSalario = salario + (salario * 0.1 / 100);
+        newSalario += salario + (salario * 0.1 / 100);
     }
     document.getElementById('result1').innerText = 'Amount Of Salary : ' + salario + '\n' + ' Cuantos Hijos : ' + cuantoHijos + ' \n '
     + ' Genero : ' + genero;
