@@ -1,0 +1,17 @@
+h3 {
+    color: green;
+    text-align: center;
+    letter-spacing: -2px;
+
+}
+
+.pantalla {
+    background-color: #cccc;
+    border-bottom-color:#5ca86f;
+    font:normal bold 18px;
+    letter-spacing: -1px;
+    text-transform: capitalize;
+    border-radius: 4px;
+    box-shadow: 4px 4px 2px #5ca86f;
+    margin: 10px;
+}
